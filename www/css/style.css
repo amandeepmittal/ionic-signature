@@ -1,0 +1,9 @@
+/* Header icon */
+.ion-ios-compose-outline {
+  font-size: 25px;
+}
+
+/* Canvas Area Styling*/
+#signatureCanvas {
+  border: 1px solid black;
+}
